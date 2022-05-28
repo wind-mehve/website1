@@ -1,0 +1,30 @@
+.container {
+    margin: 0 auto;
+}
+
+.carousel {
+    height: 400px;
+    width: 80%;
+    margin: 60px auto 0;
+}
+
+.carousel .carousel-inner {
+    margin: 0 auto;
+    height: 350px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel .carousel-item {
+    transform: translateX(-50%);
+}
+
+.season .card {
+    margin: 0 auto;
+}
+
+.season .col {
+    margin-bottom: 20px;
+}
