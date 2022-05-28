@@ -1,3 +1,3 @@
 # website
-My HP Portfolio /n
+My HP Portfolio \n
 language: HTML, CSS, JavaScript
