@@ -1,3 +1,3 @@
 # website
-My HP Portfolio \n
+My HP Portfolio <br>
 language: HTML, CSS, JavaScript
